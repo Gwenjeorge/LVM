@@ -24,7 +24,7 @@
 
 ![LVM](LVM/5-VGDISPLAY.png)  
 
-## Création d'un snamp de /home.  
+## Création d'un snap de /home.  
 
 ![LVM](LVM/7-SNAP.png)  
 
